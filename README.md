@@ -28,7 +28,8 @@ The model evaluation with test data is
 <img width="496" alt="image" src="https://user-images.githubusercontent.com/91872382/182803491-72514f5c-134e-40b6-8f1b-3d63b89494ee.png">
         
 The segmentation of the cell neuclei by the model is generally very accurate.               
-Using some of the test data, the model also makes some predictions. The graphics below display the actual output masks and predicted masks.
+Using some of the test data, the model also makes some predictions. The graphics below display the actual output masks and predicted masks.                 
+       
 <img width="433" alt="image" src="https://user-images.githubusercontent.com/91872382/182803848-58f9589e-66aa-4bce-b075-ce0a2b22c01f.png">          
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/91872382/182804014-a4b3e2b6-bf8f-497c-a184-6470d0331f2a.png">
 
